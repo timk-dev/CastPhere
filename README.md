@@ -6,6 +6,6 @@ A sleek weather app that delivers live weather data by city, built using React, 
 Key Highlights: Asynchronous data fetching, state-driven UI updates, weather API integration, clean UI.
 
 ## :desktop_computer: Features
-  * :electric_plug: Responsive
+  * :electric_plug: Optimized for Desktop
   * :electric_plug: SEO-Friendly
   * :electric_plug: UI Animations
