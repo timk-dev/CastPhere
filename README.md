@@ -1,8 +1,11 @@
-# React + Vite
+![CastPhere](https://github.com/timk-dev/CastPhere/blob/main/Screenshot_19-4-2025_19213_castpherenew.vercel.app.jpeg?raw=true)
+# CastPhere
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+⛅ Castphere – Real-Time Weather Dashboard
+A sleek weather app that delivers live weather data by city, built using React, Vite, and OpenWeatherMap API. Includes animated backgrounds and condition-based icons for a smooth user experience.
+Key Highlights: Asynchronous data fetching, state-driven UI updates, weather API integration, clean UI.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## :desktop_computer: Features
+  * :electric_plug: Responsive
+  * :electric_plug: SEO-Friendly
+  * :electric_plug: UI Animations
