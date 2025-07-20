@@ -1,5 +1,5 @@
 ![CastPhere](https://github.com/timk-dev/CastPhere/blob/main/Screenshot_19-4-2025_19213_castpherenew.vercel.app.jpeg?raw=true)
-![CastPhere](https://github.com/timk-dev/CastPhere/blob/main/castphere1.webp?raw=true)
+![CastPhere](https://github.com/timk-dev/CastPhere/blob/main/castphere2.webp?raw=true)
 # CastPhere
 
 ⛅ Castphere – Real-Time Weather Dashboard
